@@ -34,12 +34,6 @@
 
 
 
-> 📥 \*\*完整專案報告 (Full Presentation)\*\*
-
-> \[\*\*📄 Project Report (PDF)\*\*](docs/Tennis\_Analysis\_Report\_20251014.pdf)
-
-
-
 
 
 \## 🔍 數據來源與挑戰 (Data \& Challenges)
@@ -72,11 +66,9 @@
 
 
 
-> 📥 \*\*完整專案報告 (Full Presentation)\*\*
+> 📥 \\\*\\\*完整專案報告 (Full Presentation)\\\*\\\*
 
-> 想要了解完整的分析思路與商業應用場景？歡迎查閱詳細的結案簡報：
-
-> \[\*\*📄 Download Project Report (PDF)\*\*](docs/Tennis\_Analysis\_Report\_2025.pdf)
+> \\\[\\\*\\\*📄 Project Report (PDF)\\\*\\\*](docs/Tennis\\\_Analysis\\\_Report\\\_20251014.pdf)
 
 
 
@@ -180,7 +172,9 @@ Tennis-Player-Clustering/
 
 ├── requirements.txt    # Dependencies
 
-└── README.md           # Documentation```
+└── README.md           # Documentation
+
+```
 
 
 
