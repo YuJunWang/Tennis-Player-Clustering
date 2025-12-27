@@ -165,7 +165,7 @@ Tennis-Player-Clustering/
 
 ├── docs/               # Full Analysis Report (PDF)
 
-├── notebooks/          # Clustering Logic \& Radar Chart Generation
+├── notebooks/          # Clustering Logic & Radar Chart Generation
 
 ├── images/             # Result Visualizations (Radar Charts, PCA)
 
