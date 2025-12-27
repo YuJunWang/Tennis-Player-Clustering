@@ -1,0 +1,17 @@
+# Web Scraping & Automation (爬蟲與自動化)
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+lxml
+
+# Data Processing & Machine Learning (數據處理與機器學習)
+numpy
+pandas
+scikit-learn
+statsmodels
+
+# Visualization (視覺化圖表)
+matplotlib
+seaborn
+plotly
