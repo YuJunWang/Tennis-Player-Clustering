@@ -35,6 +35,8 @@ GitHub 預覽可能無法完整顯示，請點擊下方按鈕查看完整的 Not
 
 我們不只看勝率，更建立了 **六大能力維度 (6-Point Radar Metrics)**，精準描繪出每位選手的「能力指紋」。
 
+> 📥 **完整專案報告 (Full Presentation)**
+> [**📄 Download Project Report (PDF)**](docs/Tennis_Analysis_Report_20251014.pdf?raw=true)
 
 
 
@@ -67,9 +69,6 @@ GitHub 預覽可能無法完整顯示，請點擊下方按鈕查看完整的 Not
 > The scraping notebook requires a **local environment** to run. Cloud environments like Google Colab will trigger the site's anti-bot verification immediately.
 
 
-
-> 📥 **完整專案報告 (Full Presentation)**
-> [**📄 Download Project Report (PDF)**](docs/Tennis_Analysis_Report_20251014.pdf?raw=true)
 
 
 
