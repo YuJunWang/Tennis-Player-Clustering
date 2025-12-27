@@ -69,8 +69,7 @@ GitHub 預覽可能無法完整顯示，請點擊下方按鈕查看完整的 Not
 
 
 > 📥 **完整專案報告 (Full Presentation)**
-> 
-> [**📄 Project Report (PDF)**](docs/Tennis_Analysis_Report_20251014.pdf)
+> [**📄 Download Project Report (PDF)**](docs/Tennis_Analysis_Report_20251014.pdf?raw=true)
 
 
 
