@@ -1,7 +1,7 @@
 ### 💻 程式碼與分析過程
 GitHub 預覽可能無法完整顯示，請點擊下方按鈕查看完整的 Notebook 分析與互動圖表：
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/YuJunWang/Tennis-Player-Clustering/blob/main/notebooks/TennisDataAnalysis.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/YuJunWang/Tennis-Player-Clustering/blob/main/notebooks/TennisDataAnalysis.ipynb?v=20251228)
 
 
 
