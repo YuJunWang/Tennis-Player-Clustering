@@ -164,17 +164,11 @@ GitHub 預覽可能無法完整顯示，請點擊下方按鈕查看完整的 Not
 ```text
 
 Tennis-Player-Clustering/
-
 ├── data/               # Raw Data (2025-12-24 Snapshot)
-
 ├── docs/               # Full Analysis Report (PDF)
-
 ├── notebooks/          # Clustering Logic & Radar Chart Generation
-
 ├── images/             # Result Visualizations (Radar Charts, PCA)
-
 ├── requirements.txt    # Dependencies
-
 └── README.md           # Documentation
 ```
 
